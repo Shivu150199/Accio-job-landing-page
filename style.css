@@ -430,6 +430,7 @@ max-width:25rem;
 display:flex;
 flex-direction:column;
 align-items:center;
+box-shadow:var(--dark-shadow);
 
 }
 
